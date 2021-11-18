@@ -1,2 +1,2 @@
 # projectDjango
-This is my first project of backend developing with Django framework
+This is my first project of full-stack developing with Django framework
