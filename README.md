@@ -1,2 +1,2 @@
-# projectDjango
-This is my first project of full-stack developing with Django framework
+# Django_Auth-System
+This is my first project of Login & Register system, developing with Django framework
